@@ -1,0 +1,19 @@
+# Send request for all contacts
+https://cse341-contacts-j9st.onrender.com/all
+
+###
+
+# send request for one contact with "Eva" _id
+https://cse341-contacts-j9st.onrender.com/one/68670db0aaf2aef7a41105c2
+
+###
+
+# send request for one contact with "Tyler" _id
+https://cse341-contacts-j9st.onrender.com/one/68670db0aaf2aef7a41105c0
+
+###
+
+
+# send request for one contact with "Diane" _id
+https://cse341-contacts-j9st.onrender.com/one/68670db0aaf2aef7a41105c1
+

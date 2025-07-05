@@ -1,1 +1,19 @@
-http://localhost:3000
+# Send request for all contacts
+http://localhost:3000/all
+
+###
+
+# send request for one contact with "Eva" _id
+http://localhost:3000/one/68670db0aaf2aef7a41105c2
+
+###
+
+# send request for one contact with "Tyler" _id
+http://localhost:3000/one/68670db0aaf2aef7a41105c0
+
+###
+
+
+# send request for one contact with "Diane" _id
+http://localhost:3000/one/68670db0aaf2aef7a41105c1
+

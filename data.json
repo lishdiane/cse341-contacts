@@ -1,0 +1,23 @@
+[
+{
+    "firstName": "Tyler",
+    "lastName": "Lish",
+    "email": "Tyler@outlook.com",
+    "color": "Pink",
+    "birthday": "12/19/1985"
+},
+{
+    "firstName": "Diane",
+    "lastName": "Lish",
+    "email": "Diane@outlook.com",
+    "color": "Blue",
+    "birthday": "09/12/1990"
+},
+{
+    "firstName": "Eva",
+    "lastName": "Lish",
+    "email": "Eva@outlook.com",
+    "color": "Yellow",
+    "birthday": "08/30/2011"
+}
+]

@@ -97,7 +97,34 @@
             "name": "_id",
             "in": "path",
             "required": true,
-            "type": "string"
+            "schema": {
+              "type": "string",
+            "description": "The ID of the contact to update."
+            }
+          },
+          {
+            "name": "body",
+            "in": "body",
+            "schema": {
+              "type": "object",
+              "properties": {
+                "firstName": {
+                  "example": "any"
+                },
+                "lastName": {
+                  "example": "any"
+                },
+                "email": {
+                  "example": "any"
+                },
+                "color": {
+                  "example": "any"
+                },
+                "birthday": {
+                  "example": "any"
+                }
+              }
+            }
           }
         ],
         "responses": {

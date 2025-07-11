@@ -1,23 +1,44 @@
 [
-{
+  {
     "firstName": "Tyler",
     "lastName": "Lish",
     "email": "Tyler@outlook.com",
     "color": "Pink",
     "birthday": "12/19/1985"
-},
-{
+  },
+  {
     "firstName": "Diane",
     "lastName": "Lish",
     "email": "Diane@outlook.com",
     "color": "Blue",
     "birthday": "09/12/1990"
-},
-{
+  },
+  {
     "firstName": "Eva",
     "lastName": "Lish",
     "email": "Eva@outlook.com",
     "color": "Yellow",
     "birthday": "08/30/2011"
-}
+  },
+  {
+    "firstName": "Jackson",
+    "lastName": "Lish",
+    "email": "Jack@outlook.com",
+    "color": "Red",
+    "birthday": "08/30/2011"
+  },
+  {
+    "firstName": "Marian",
+    "lastName": "Lish",
+    "email": "Marian@outlook.com",
+    "color": "Green",
+    "birthday": "08/30/2011"
+  },
+  {
+    "firstName": "Lanie",
+    "lastName": "Lish",
+    "email": "Lanie@outlook.com",
+    "color": "Purple",
+    "birthday": "08/30/2011"
+  }
 ]

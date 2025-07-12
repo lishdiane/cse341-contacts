@@ -60,27 +60,12 @@
         "description": "",
         "parameters": [
           {
-            "name": "body",
-            "in": "body",
+            "name": "_id",
+            "in": "path",
+            "required": true,
             "schema": {
-              "type": "object",
-              "properties": {
-                "firstName": {
-                  "example": "any"
-                },
-                "lastName": {
-                  "example": "any"
-                },
-                "email": {
-                  "example": "any"
-                },
-                "color": {
-                  "example": "any"
-                },
-                "birthday": {
-                  "example": "any"
-                }
-              }
+              "type": "string",
+            "description": "The ID of the contact."
             }
           }
         ],
@@ -99,7 +84,7 @@
             "required": true,
             "schema": {
               "type": "string",
-            "description": "The ID of the contact to update."
+            "description": "The ID of the contact."
             }
           },
           {
